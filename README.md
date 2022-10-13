@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Omri aka @omriberchman
 - 👀 I’m interested in technology, how stuff works and such
 - 🌱 I’m currently learning Java in school
+- 💼 I have an afternoom job as helpdesk intern at Plasson Ltd.
 - 📫 If you want to reach out to me I am always availbe on email oberechman@gmail.com
 
 <!---
