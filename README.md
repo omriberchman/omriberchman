@@ -1,7 +1,10 @@
-- 👋 Hi, I’m Omri aka @omriberchman
-- 👀 I’m interested in technology, how stuff works and such
-- 🌱 I’m currently learning Java in school
+- 👋 Hi, I’m Omri Berchman aka @omriberchman
+- 👀 Interested in technology, how stuff works and such
+- 🌱 Currently studing Java in school
 - 💼 Afternoom job as tech intern at Plasson Ltd.
+- 🤝 Part of the [@MaaganMichael](https://github.com/Maagan-Michael) code organization.
+- 🖥️ Operator at the **MMLabs: Bunker** tech center in Maagan Michael.
+- 🐧 Favoriting Ubuntu! 
 - 📫 If you'd to reach out to me I am always available at oberechman@gmail.com
 
 <!---
