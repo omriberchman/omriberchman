@@ -4,7 +4,6 @@
 - 💼 Afternoom job as tech intern at Plasson Ltd.
 - 🤝 Part of the [@MaaganMichael](https://github.com/Maagan-Michael) local code organization.
 - 🖥️ Operator at the **MMLabs: Bunker** tech center in Maagan Michael.
-- 🐧 Favoriting Ubuntu! 
 - 📫 If you'd to reach out to me I am always available at oberechman@gmail.com
 
 <!---
