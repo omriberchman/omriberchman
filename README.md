@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Omri Berchman aka @omriberchman
 - 👀 Interested in technology, how stuff works and such
-- 🌱 Currently studing Java in school
+- 🌱 CS matriculation with Java
 - 💼 Afternoom job as tech intern at Plasson Ltd.
 - 🤝 Part of the [@MaaganMichael](https://github.com/Maagan-Michael) local code organization.
 - 🖥️ Operator at the **MMLabs: Bunker** tech center in Maagan Michael.
